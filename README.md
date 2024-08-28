@@ -1,8 +1,6 @@
 
 # ArtWizard
 
-![ArtWizard Logo](path_to_logo_image)
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Model Description](#model-description)
@@ -41,26 +39,24 @@ Check out the demo video to see ArtWizard in action! The video showcases the ent
 - **AI-Powered Image Generation**: Generate high-quality images based on user input.
 - **Real-Time Rendering**: Experience quick image generation with the optimized model.
 - **User-Friendly Interface**: Simple and intuitive design for easy interaction.
-- **Download Options**: Save generated images directly to your device.
 
 ## Installation
 To set up ArtWizard locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ArtWizard.git
-   cd ArtWizard
+   git clone https://github.com/Shivang-Patel/ArtWizard.git
    ```
 
 2. **Install dependencies**:
    - Frontend:
      ```bash
-     cd frontend
+     cd Client
      npm install
      ```
    - Backend:
      ```bash
-     cd backend
+     cd Server
      pip install -r requirements.txt
      ```
 
