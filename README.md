@@ -1,4 +1,3 @@
-
 # ArtWizard
 
 ## Table of Contents
@@ -31,7 +30,11 @@ ArtWizard is built using a modern tech stack to ensure performance, scalability,
 - **Deployment**: Netlify
 
 ## Demo
-![ArtWizard Demo]()
+![Demo](
+
+https://github.com/user-attachments/assets/0dd874a2-3157-46de-b748-17f0b9ae89c4
+
+)
 
 
 
