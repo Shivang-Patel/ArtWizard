@@ -31,7 +31,7 @@ ArtWizard is built using a modern tech stack to ensure performance, scalability,
 - **Deployment**: Netlify
 
 ## Demo
-![ArtWizard Demo](path_to_demo_video)
+![ArtWizard Demo](Demo.mov)
 
 Check out the demo video to see ArtWizard in action! The video showcases the entire process, from inputting a description to generating and downloading the final artwork.
 
